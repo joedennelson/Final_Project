@@ -1,0 +1,27 @@
+body{
+background-color: black;
+outline: solid turquoise;
+}
+img{
+display: block;
+margin-left: auto;
+margin-right: auto;  
+border: 5px solid white;      
+}
+h5{
+color: white;
+font-size: 25px;
+text-align: center;
+border: solid rgb(120, 255, 120)
+}
+h6{
+    color: white;
+    text-align: center;
+    border: solid rgb(120, 255, 120);
+}
+h2{
+    color: white;
+    text-align: center;
+    font-size: 35px;
+    outline: solid turquoise;
+}
